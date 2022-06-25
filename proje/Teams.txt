@@ -1,0 +1,4 @@
+Name:A;Power:14;Experience:11;Happiness:20;Won:0;Draw:0;Lost:0;GoalScored:0;GoalConceded:0
+Name:B;Power:17;Experience:18;Happiness:20;Won:0;Draw:0;Lost:0;GoalScored:0;GoalConceded:0
+Name:C;Power:18;Experience:12;Happiness:20;Won:0;Draw:0;Lost:0;GoalScored:0;GoalConceded:0
+Name:D;Power:20;Experience:13;Happiness:20;Won:0;Draw:0;Lost:0;GoalScored:0;GoalConceded:0
