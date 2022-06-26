@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Şampiyonlar Ligi</title>
+    <title>Premier League</title>
     <link rel="stylesheet" type="text/css" media="all" href="style.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
